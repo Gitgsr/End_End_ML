@@ -19,8 +19,3 @@ setup(    name='mlproject1',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt'),
     description='A simple machine learning project')
-# setup(    name='mlproject1',
-#     version='0.0.1',author='Sairam',author_email='sairam.qd@gmail.com',
-#     packages=find_packages(),
-#     install_requires=['pandas', 'numpy', 'scikit-learn', 'matplotlib', 'seaborn'],
-#     description='A simple machine learning project')
